@@ -43,10 +43,6 @@ Feel free to connect with me for collaboration, discussions, or opportunities!
 
 ---
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallah-7698&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdallah-7698&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
